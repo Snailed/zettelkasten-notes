@@ -1,0 +1,1 @@
+Ifølge [[Gionis, Indyk, Motwani - Similarity Searching in High Dimensions via Hashing (1999)]] side 1, så er approksimeret nearest neighbor godt nok til de fleste tilfælde. Dette skyldes at valget af afstandsfunktion og features er på baggrund af menneskeskabte heuristikker, så derfor vil vi alligevel ikke være perfekte.

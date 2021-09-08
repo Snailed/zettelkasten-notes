@@ -1,0 +1,2 @@
+Som læst i [[Tilbud til Fastr]], så kan pretotyping bruges til at teste ting omkring en målgruppe, et marked eller et produkt.
+I Fastr's tilfælde vil de lave en prototype som kan benyttes af virkelige brugere, og som kan bruges til at indsamle information omkring løsningen. På baggrund af dette kan man så be- eller afkræfte en markedshypotese inden man udvikler et produkt.

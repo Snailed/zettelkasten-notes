@@ -1,0 +1,1 @@
+[Storybook](https://storybook.js.org/) er et værktøj der lader brugere teste individuelle web-komponenter isoleret, og lader brugeren lege med forskellige states og props. [[Chromatic er en gratis, nem integration mellem Storybook og Github, der laver meget nemme code reviews]]

@@ -1,0 +1,1 @@
+Bliver beskrevet i [[Universal Principles of Design]]. En genstand "afforder" en handling. Eksempel: En mobiltelefon afforder at man kan ringe, eller kaste med den, men den afforder ikke at man kan flyve på den.

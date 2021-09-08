@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "fd73a0eb4e417a43",
+    "type": "split",
+    "children": [
+      {
+        "id": "c65b85dbd61a600b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Litteraturnoter/Gionis, Indyk, Motwani - Similarity Searching in High Dimensions via Hashing (1999).md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a61a0dbbc66e6904",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41b087790cbcd057",
+    "type": "split",
+    "children": [
+      {
+        "id": "798df4a5cec11e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82d89883d3ce08a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e9dd151691595fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "manh",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318
+  },
+  "right": {
+    "id": "ec2d9c56959dca70",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b828883e26cf9ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "979fc8d756cea06a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 195,
+    "collapsed": true
+  },
+  "active": "a61a0dbbc66e6904",
+  "lastOpenFiles": [
+    "I NNS og ENNS kan alle tal gøres til positive heltal med en lille fejlmargin.md",
+    "Permanente noter/Der er minimal forskel på Manhattan og Euclid-normen.md",
+    "Litteraturnoter/Gionis, Indyk, Motwani - Similarity Searching in High Dimensions via Hashing (1999).md",
+    "Untitled.md",
+    "Permanente noter/Nearest Neighbor Search (NNS).md",
+    "Permanente noter/Epsilon-Nearest Neighbor Search (ENNS).md",
+    "Permanente noter/Nearest Neighbor Search (NNS) 1.md",
+    "Nearest Neighbor Search (NNS).md",
+    "Permanente noter/Similarity Search Problemet.md",
+    "Permanente noter/80% af effekter styres af 20% af variable.md"
+  ]
+}
