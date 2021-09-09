@@ -11,3 +11,8 @@ Hvis vi gør dette får vi ud fra de nuværende state-of-art datastrukturer får
 2: Behøver vi have uafhængige datastrukturer? Ifølge Jakob Tejs, så nej! Man kan faktisk spare log-faktoren sådan så man ikke længere skal udregne mange forskellige hashværdier for query-mængden. Så får man en query time på $O(n^\rho\log(1/\epsilon)+|Q|)$
 2: Ved hjælp af bit parallelisme kan man yderligere forberedre query tiden til $O((\frac{n\log w}{w})^\rho\log(1/\epsilon) + |Q|)$ og endda et forbedret pladsforbrug til $O((\frac{n\log w}{w})^\rho\log(1/\epsilon) + \sum_{A\in\mathcal{F}}|A|))$ hvilket virker generelt for LSH.
 2: Et similarity space er en to-tuppel af form $(X,S)$ hvor $X$ er et inputrum og $S$ er en afstandsfunktion.
+2: En familie af hashfunktioner $\mathcal{H}$ er $(s_1, s_2, p_1, p_2)$-sensitiv hvis for enhver $x,y\in X$ og $h\in\mathcal{H}$ valgt uniformt tilfældigt gælder:
+- Hvis $S(x,y) \geq s_1$  så må $Pr[h(x)=h(y)] \geq p_1$
+- Hvis $S(x,y) \leq s_2$  så må $Pr[h(x)=h(y)] \leq p_2$
+
+2: Min
