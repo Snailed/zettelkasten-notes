@@ -1,0 +1,4 @@
+2: Det er standardprocedure at benytte w-shingles af ord i søgning, hvilket generer ekstemt højdimensionel data. Derfor kan man nøjes med blot at bruge absence/precense data (0/1), da vi ved at ordfrekvens for det meste følger en Power Law.
+3: _b-bit minwise hashing_ provides a strikingly simple solution to this (storage and computational) problem by storing only the lowest b bits (instead of 64 bits) of each hashed value. For convenience, we define the minimum values under $\pi: z_1 = \min(\pi (S_1 ))$ and $z_2 = \min (\pi (S_2 ))$, and define $e_{1, i} = i$th lowest bit of $z_1$, and $e_{2, i} = i$th lowest bit of $z_2$.
+4: At runtime, each datapoint is expanded to a $nbk$ size vector. 
+5: Example

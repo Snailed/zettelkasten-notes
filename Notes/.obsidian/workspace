@@ -4,33 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9f2be799b13cbda3",
-        "type": "split",
-        "children": [
-          {
-            "id": "c65b85dbd61a600b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Litteraturnoter/Tejs Knudsen, Fast Similarity Search with Low Error Probability, 2021.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "0ca345035627e22b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Litteraturnoter/Tejs Knudsen, Fast Similarity Search with Low Error Probability, 2021.md",
-                "mode": "preview"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
+        "id": "ad800e87ac22ff0d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -70,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318,
-    "collapsed": true
+    "width": 247.0036334991455
   },
   "right": {
     "id": "ec2d9c56959dca70",
@@ -87,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Litteraturnoter/Tejs Knudsen, Fast Similarity Search with Low Error Probability, 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,20 +79,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 195,
-    "collapsed": true
+    "width": 210.28634643554688
   },
-  "active": "c65b85dbd61a600b",
+  "active": "ad800e87ac22ff0d",
   "lastOpenFiles": [
-    "Litteraturnoter/Tejs Knudsen, Fast Similarity Search with Low Error Probability, 2021.md",
-    "Litteraturnoter/Untitled.md",
-    "Permanente noter/Gionis, Indyk, Motwani Similarity Searching.md",
-    "Permanente noter/I LSH vælger man delmængder ud fra en parameter k der bestemmer præcision.md",
-    "I LSH afhænger størrelsen af hashtabellen på en parameter alpha der beskriver forholdet mellem hukommelse og datamængden.md",
-    "Untitled.md",
-    "Litteraturnoter/Gionis, Indyk, Motwani - Similarity Searching in High Dimensions via Hashing (1999).md",
-    "Permanente noter/Untitled.md",
-    "Permanente noter/Gionis, Indyk, Motwani Locality Sensitive Hash-funktion.md",
-    "Permanente noter/Gionis, Indyk, Motwani LSH.md"
+    "Permanente noter/Q-linear convergence.md",
+    "Permanente noter/Convergence rate.md",
+    "Forelæsningsnoter/NO 7-2-2022.md",
+    "Permanente noter/Taylor's Theorem.md",
+    "Permanente noter/Conditional Gaussian Distributions.md",
+    "Permanente noter/Precision matrix.md",
+    "Permanente noter/Gaussian Distribution.md",
+    "Permanente noter/Gaussian quadratic form.md",
+    "Permanente noter/Mahalanobis distance.md",
+    "Litteraturnoter/Bishop - Pattern Recognition and Machine Learning.md"
   ]
 }

@@ -1,0 +1,3 @@
+Reference: [[Li, Shrivastava, Moore, König - Hashing Algorithms for Large Scale Learning]]
+
+N-grammer (også kaldet $w$-shingles) er en sekvæns af $N$ ord i træk. I research har man set op til 5- og 7-grammer blevet brugt. De giver ekstremt højdimensionel data, som samtidigt er meget sparse. Ofte bruger man blot precense/absence information (1/0), da vi ved at N-grammer og ord-frekvens approximativt følger en power law [[I alle sprog følger ords frekvenser en negativ eksponentiel kurve]].

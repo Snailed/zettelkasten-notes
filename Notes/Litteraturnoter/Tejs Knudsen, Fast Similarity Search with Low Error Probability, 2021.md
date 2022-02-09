@@ -15,4 +15,9 @@ Hvis vi gør dette får vi ud fra de nuværende state-of-art datastrukturer får
 - Hvis $S(x,y) \geq s_1$  så må $Pr[h(x)=h(y)] \geq p_1$
 - Hvis $S(x,y) \leq s_2$  så må $Pr[h(x)=h(y)] \leq p_2$
 
-2: Min
+2: MinHash virker sådan her: Hvis du har en familie $\mathcal{H}$ af hashfunktioner $h: U\rightarrow R$ så definerer vi en ny familie $\mathcal{H}^{min}$ af hashfunktioner $h^{min}: \mathcal{P}(U)\rightarrow U$ hvor $h^{min}(A)=\arg \min_{x\in A}h(x)$ for enhver $A\subseteq U$
+4: Læs Fast Similarity Sketching af Dahlgaard et al.
+8: Tejs har lavet en bedre analyse af FSS ved at den formaliserer afhængigheden mellem de forskellige hashfunktioner
+
+
+26: Man kan tage et ord $t$ og tælle antallet af 1'er i $O(log d)$ tid.

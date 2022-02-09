@@ -1,0 +1,2 @@
+http://graphics.stanford.edu/~seander/bithacks.html#:~:text=Feburary%201%2C%202007.-,Counting%20bits%20set%2C%20in%20parallel,-unsigned%20int%20v:
+Her er en bit-twiddling hack som er effektiv op til 128 bit. 

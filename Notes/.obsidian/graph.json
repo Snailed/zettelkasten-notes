@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:Forelæsningsnoter",
+      "color": {
+        "a": 1,
+        "rgb": 5397472
+      }
     }
   ],
   "collapse-display": false,
@@ -35,10 +42,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.241573033707865,
-  "repelStrength": 13.2584269662921,
-  "linkStrength": 0.814606741573034,
-  "linkDistance": 104,
-  "scale": 0.20631755858264253,
-  "close": true
+  "centerStrength": 0.429406850459482,
+  "repelStrength": 9.76274018379282,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.3711111299340553,
+  "close": false
 }
