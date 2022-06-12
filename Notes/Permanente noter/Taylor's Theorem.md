@@ -6,3 +6,5 @@ Here, the last part is a variable that changes with $x$ (should be written $c(x)
 
 In several variables $f \colon U \in \mathbb{R}^n \rightarrow \mathbb{R}$, usually second order is enough
 $$f(x+h)=f(x) + \nabla f(x)^Th + \frac{1}{2}h^T\nabla^2 f(x)h + o(||h||^2)$$
+
+Taylor's theorem can be used to study the [[Local Minimizer]]s of [[Smooth function]]s

@@ -23,3 +23,4 @@ $$
 \end{bmatrix}
 $$
 We say that $f$ is twice differentiable on a domain $\mathcal{D}$ if $\nabla^2f(x)$ exists for all $x\in \mathcal{D}$.
+If a function has a Hessian matrix, then it is a [[Smooth function]].
