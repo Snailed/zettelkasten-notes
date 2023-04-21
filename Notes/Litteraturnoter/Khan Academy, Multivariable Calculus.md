@@ -1,0 +1,1 @@
+Lagrange Multiplier: https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/constrained-optimization/a/lagrange-multipliers-single-constraint

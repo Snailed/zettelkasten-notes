@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "80eea6d03ddf5f54",
+        "id": "5d34c3f77545510d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Permanente noter/Oversigt over litteratur i videnskabsteori.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "f742a1624a41960a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Litteraturnoter/Denning, 2013 - The Science in Computer Science.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -79,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Litteraturnoter/Denning, 2013 - The Science in Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +82,17 @@
     "width": 210.28634643554688,
     "collapsed": true
   },
-  "active": "f742a1624a41960a",
+  "active": "5d34c3f77545510d",
   "lastOpenFiles": [
-    "Litteraturnoter/Denning, 2013 - The Science in Computer Science.md",
-    "Litteraturnoter/Wing, 2006 - Computational Thinking.md",
     "Permanente noter/Oversigt over litteratur i videnskabsteori.md",
-    "Litteraturnoter/Tilbud til Fastr.md",
-    "Litteraturnoter/Denning 2001 - Who Are We.md",
-    "Litteraturnoter/Denning, 2001 - The Profession of IT, Who are We?\".md",
-    "Litteraturnoter/Naur, 1966 - The Science of Datalogy.md",
-    "Permanente noter/First order nescessary conditions for optimality.md",
-    "Permanente noter/MinHash \"sketcher\" data ved at lave en summary vektor med værdier fra tilfældige hashfunktioner.md",
-    "Permanente noter/MinHash.md"
+    "Litteraturnoter/Sørensen, Johansen - Kap 10.md",
+    "Litteraturnoter/Sørensen, Johansen - Kapitel 7.md",
+    "Litteraturnoter/Sørensen, Johansen - Kapitel 6.md",
+    "Litteraturnoter/Sørensen, Johansen - Kapitel 4.md",
+    "Litteraturnoter/Sørensen, Johansen - Kapitel 3.md",
+    "Litteraturnoter/Sørensen, Johansen - Kapitel 2.md",
+    "Litteraturnoter/Sørensen, Johansen - Kapitel 1.md",
+    "Permanente noter/Fordele ved samarbejdet mellem NBI og Microsoft.md",
+    "Permanente noter/Udfordringer ved samarbejdet mellem NBI og Microsoft.md"
   ]
 }
