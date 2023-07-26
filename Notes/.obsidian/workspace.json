@@ -13,9 +13,129 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanente noter/Design Criterion.md",
+                "file": "Permanente noter/Bayesian Optimal Design.md",
                 "mode": "source",
                 "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a61330361841482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanente noter/Design Criterion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e7bb6b400a395c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Litteraturnoter/Hardy - Linear Algebra for Engineers and Scientists.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81e106acc0771ff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanente noter/Kullback-Leibler Divergence KLD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b36d3bceb570bf34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanente noter/Design Criterion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ee9b59b404f3cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanente noter/Local Minimizer.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41bb0dcf3659c460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanente noter/(s_1, s_2, p_1, p_2)-sensitive hashfunktioner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdf329e9dee6c84c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanente noter/Mutual Information as Design Criterion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f18bea3060e4940",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanente noter/Markov's Inequality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba7088bcf8ca9e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanente noter/Design Criterion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ae94ca3676c6912",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanente noter/Likelihood distribution.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -57,7 +177,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -94,12 +215,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "39cd31ce477545dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 217.5
   },
   "right": {
     "id": "ec2d9c56959dca70",
@@ -115,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permanente noter/Design Criterion.md",
+                "file": "Permanente noter/Markov's Inequality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,10 +271,29 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4b26c9e7c4e93548",
+  "active": "6f18bea3060e4940",
   "lastOpenFiles": [
-    "Permanente noter/Experimental Design.md",
+    "Permanente noter/Hoeffding's Inequality.md",
+    "Permanente noter/Markov's Inequality.md",
+    "Permanente noter/Union Bound.md",
+    "Permanente noter/Chebyshev's Inequality.md",
+    "Litteraturnoter/Seldin, 2023 - Machine Learning The Science of Selection under Uncertaincy.md",
+    "Permanente noter/Mutual Information.md",
+    "Andre filer/Pasted image 20230512111615.png",
+    "Permanente noter/Bayes Theorem.md",
+    "Permanente noter/Mutual Information as Design Criterion.md",
+    "Permanente noter/Design Criterion.md",
     "Permanente noter/Bayesian Optimal Design.md",
+    "Andre filer/Pasted image 20230421160712.png",
+    "Litteraturnoter/Ryan, 2015 - A Review of Modern Computational Algorithms for Bayesian Optimal Design.md",
+    "Permanente noter/Kullback-Leibler Divergence KLD.md",
+    "Litteraturnoter/Hardy - Linear Algebra for Engineers and Scientists.md",
+    "Litteraturnoter/Lisciandra, Korbmacher, 2021 - Multiple models, one explanation.md",
+    "Litteraturnoter/Bishop - Pattern Recognition and Machine Learning.md",
+    "Untitled 1.md",
+    "Permanente noter/Likelihood distribution.md",
+    "Andre filer/Pasted image 20230421115623.png",
+    "Permanente noter/Experimental Design.md",
     "Permanente noter/Newton direction.md",
     "Litteraturnoter/Nocedal, Wright - Numerical Optimization.md",
     "Permanente noter/First order nescessary conditions for optimality.md",
@@ -154,22 +302,6 @@
     "Permanente noter/Learning Machine.md",
     "Permanente noter/Duhem-Quine-tesen.md",
     "Permanente noter/Series.md",
-    "Permanente noter/Design Criterion.md",
-    "Ryan,.md",
-    "Permanente noter/Semantic equivalence of syntactic phrases.md",
-    "Permanente noter/Big-step Semantics of the IMP Language.md",
-    "Litteraturnoter/Khan Academy, Multivariable Calculus.md",
-    "Permanente noter/Conjugate distributions.md",
-    "Permanente noter/Bayes Theorem.md",
-    "Permanente noter/Posterior distribution.md",
-    "Permanente noter/Likelihood distribution.md",
-    "Permanente noter/Trust-region.md",
-    "Permanente noter/Prior distribution.md",
-    "Permanente noter/Conjugate prior.md",
-    "Litteraturnoter/Ryan, 2015 - A Review of Modern Computational Algorithms for Bayesian Optimal Design.md",
-    "Permanente noter/Mahalanobis distance.md",
-    "Permanente noter/Gaussian Distribution.md",
-    "Untitled.md",
     "Andre filer/Pasted image 20230319162821.png",
     "Andre filer/Pasted image 20230319162522.png",
     "Andre filer/Pasted image 20230319161943.png"
