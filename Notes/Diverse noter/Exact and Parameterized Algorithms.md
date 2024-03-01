@@ -1,0 +1,17 @@
+- Approx vs Exact vs Parameterized algs.
+- Exact TSP using Dynamic Programming
+	- Define subproblem 
+	- Prove lemma for division to subproblems
+	- Writeup algorithm (?)
+	- Prove that it solves TSP
+- Parameterization
+	- k-Vertex cover definition
+	- Quick explanation of kernelization
+	- Write up bounded search trees
+	- Bound depth
+	- Bound subproblems
+	- Reject some vertices
+	- Derive total running time
+- Fixed Parameter Tractable (FPT)
+- Slice-wise polynomial (XP)
+

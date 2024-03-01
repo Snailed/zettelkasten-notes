@@ -14,3 +14,4 @@ In this case, we can regard the confidence $\delta$ (i.e. the RHS), the precisio
 $$\delta=2e^{-n\epsilon^2}$$
 $$\epsilon=\sqrt{\frac{\ln \frac{2}{\delta}}{2n}}$$
 $$n=\frac{\ln \frac{2}{\delta}}{2\epsilon^2}$$
+![[Pasted image 20230824143517.png]]
